@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1_2_20180856</string>
+
+    <string name="strBtn1">글자 나타내기</string>
+    <string name="strBtn2">홈페이지 열기</string>
+    <string name="radioBtn1">Q(10)</string>
+    <string name="radioBtn2">R(11)</string>
+
+</resources>
